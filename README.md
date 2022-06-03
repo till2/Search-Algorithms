@@ -1,6 +1,3 @@
-My own implementation of popular graph search algos, visualized.
-
-
 # Search-Algos-Visual
 ## _Dynamically generated visualizations of Graph-Search Algorithms._
 
