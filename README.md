@@ -2,7 +2,7 @@
 ## _Dynamically generated visualizations of Graph-Search Algorithms._
 
 ## How to use?
-The programs only need the Graphs __Edges__ and nodes are implicitly generated.
+The program only needs the Graphs __Edges__. Nodes are implicitly generated.
 Further __Edge-Costs__ and __Heuristics__ to the goal can be specified.
 
 ## Sample output image
