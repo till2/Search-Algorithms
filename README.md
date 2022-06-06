@@ -1,5 +1,5 @@
 # Search-Algos-Visual
-## _Dynamically generated visualizations of Graph-Search Algorithms._
+## _Visualizations of Graph-Search Algorithms._
 
 ## How to use?
 The program only needs the Graphs __Edges__. Nodes are implicitly generated.
