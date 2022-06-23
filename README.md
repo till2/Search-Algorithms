@@ -1,5 +1,6 @@
-# Search-Algos-Visual
-## _Visualizations of Graph-Search Algorithms._
+# Visualization of some popular graph search algos
+
+<img src="https://github.com/till2/Search-Algos-Visual/blob/main/searchgrid-img?raw=true" width="450" height="450"/>
 
 ## How to use?
 The program only needs the Graphs __Edges__. Nodes are implicitly generated.
